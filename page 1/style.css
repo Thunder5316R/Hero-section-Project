@@ -39,7 +39,7 @@ a{
     left: 50%;
     transform: translate(-50%);
     text-align: center;
-    color: rgb(3, 16, 51);
+    color: #fff;
 }
 .title{
     margin: 30px;
@@ -57,5 +57,6 @@ a{
 }
 a:hover{
     font-size: 20px;
-    color: blueviolet;
+    color: #098;
+    transition: 1000ms;
 }
